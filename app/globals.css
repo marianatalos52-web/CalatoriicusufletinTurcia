@@ -2,8 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Stiluri globale adiționale */
 body {
   font-family: sans-serif;
-  background: #fff;
-  color: #222;
+  background-color: #ffffff;
+  color: #222222;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4 {
+  font-weight: 600;
 }
