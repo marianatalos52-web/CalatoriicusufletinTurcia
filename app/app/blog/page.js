@@ -45,4 +45,7 @@ Un spațiu unde sufletul se simte acasă.
     content: `
 Turcia nu înseamnă doar Istanbul și Antalya.  
 Există sate autentice, plaje ascunse și locuri cu o încărcătură spirituală aparte.  
-
+ </p>
+    </div>
+  );
+}
